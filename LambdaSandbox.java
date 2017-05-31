@@ -11,7 +11,7 @@ public class LambdaSandbox {
 	}
 
 	interface StringLengthLambda{
-		int getLength(String s)
+		int getLength(String s);
 	}
 
 }
